@@ -1,7 +1,7 @@
 # Shape from polarization via physical prior-based deep fusion network with ambiguous surface normals
 
 ## **News**
-- [2025/07] Our paper got accepted to Optics Express 2O25! [Paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-14-29255&id=573472)
+- [2025/07] Our paper got accepted to Optics Express 2025! [Paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-14-29255&id=573472)
 
 
 ## Introduction
