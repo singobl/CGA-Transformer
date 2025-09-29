@@ -21,10 +21,8 @@ conda activate VITPhase
 ```
 
 ## Data
-### Simulation dataset
 #### DeepSfP
 #### SPW
-#### Real-world scene datasets
 ## Train and test
 ```python
 train.py
